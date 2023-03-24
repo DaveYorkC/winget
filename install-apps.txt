@@ -1,0 +1,3 @@
+Version 1.0
+Valve.Steam
+7zip.7zip
